@@ -1,3 +1,4 @@
 Name: Fern
 Age: 25
 Favourite Color: Gold
+Favourite mythical animal: phoenix
